@@ -2,7 +2,7 @@
 
 A fully funtional CRUD app(Create Read Update Delete) App - InventoryGo 
 
-Download Link (https://drive.google.com/file/d/1f7NcnsOVzTC-iIfG1IJyjvCxrFNPfPkb/view?usp=sharing)
+Download apk (https://drive.google.com/file/d/1f7NcnsOVzTC-iIfG1IJyjvCxrFNPfPkb/view?usp=sharing) OR (https://bit.ly/3bSpb3p)
 
 It uses MYSQLITE database to store the Information.
 A recycler view to display the information
